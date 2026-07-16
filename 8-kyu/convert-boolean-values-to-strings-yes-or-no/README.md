@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/53369039d7ab3ac506000467/train/python target="_blank">Convert boolean values to strings 'Yes' or 'No'.</a></h2><h3>8 kyu</h3><p>Завершите метод, который принимает логическое значение и возвращает <code>"Yes"</code> строку для <code>true</code> или <code>"No"</code> строку для <code>false</code>.</p>
