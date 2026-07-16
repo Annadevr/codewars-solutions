@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python target="_blank">Opposite number</a></h2><h3>8 kyu</h3><p>Очень простая задача: по заданному числу найти противоположное ему (аддитивно обратное).</p><p>Примеры:</p><pre><code>1: -114: -14-34: 34</code></pre>
